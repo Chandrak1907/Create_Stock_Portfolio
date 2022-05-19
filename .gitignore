@@ -1,7 +1,4 @@
 #Custom ignore files
-data/*
-data/*.parquet
-artifcats/*
 
 
 
